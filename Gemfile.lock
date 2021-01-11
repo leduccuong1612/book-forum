@@ -173,7 +173,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    redcarpet (3.5.0)
+    redcarpet (3.5.1)
     responders (3.0.0)
       actionpack (>= 5.0)
       railties (>= 5.0)
@@ -256,7 +256,7 @@ DEPENDENCIES
   mysql2 (>= 0.4.4)
   puma (~> 3.7)
   rails (~> 5.1.4)
-  redcarpet (~> 3.4)
+  redcarpet (~> 3.5)
   rolify (~> 5.2)
   sass-rails (~> 5.0)
   selenium-webdriver
